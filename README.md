@@ -1,9 +1,5 @@
 # MovieInsightML – Revenue Forecasting & Genre Classification
 
-## Group Members
-- Minahil Rizwan (23I-0114)  
-- Hamda Shahid (23I-0069)  
-
 ## Project Description
 MovieInsightML is a machine learning project that predicts a movie’s revenue (regression) and classifies its main genre (classification) using a combination of numeric and textual features from a movie dataset. The project integrates text preprocessing (TF-IDF, sentiment analysis, word counts) with numeric features (budget, popularity, runtime, votes) and explores TinyML deployment for edge devices.
 
@@ -40,5 +36,6 @@ For TinyML deployment:
 Convert the trained model to TFLite format.
 
 Optionally, test on Edge Impulse or simulated edge devices.
+
 
 Visualizations for model performance and feature importance will be generated automatically.
